@@ -1,4 +1,4 @@
-package data_structures.arrays.contains_duplicate;
+package Leetcode.data_structures.arrays.contains_duplicate;
 
 import java.util.HashSet;
 import java.util.Set;

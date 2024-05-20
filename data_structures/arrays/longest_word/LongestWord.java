@@ -1,4 +1,4 @@
-package data_structures.arrays.longest_word;
+package Leetcode.data_structures.arrays.longest_word;
 
 public class LongestWord {
     public String longestWord(String sen) {

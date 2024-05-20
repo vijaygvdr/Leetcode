@@ -1,4 +1,4 @@
-package data_structures.arrays.array_implementation;
+package Leetcode.data_structures.arrays.array_implementation;
 
 import java.util.Arrays;
 public class DynamicArray {

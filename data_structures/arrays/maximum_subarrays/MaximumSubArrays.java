@@ -1,4 +1,4 @@
-package data_structures.arrays.maximum_subarrays;
+package Leetcode.data_structures.arrays.maximum_subarrays;
 
 public class MaximumSubArrays {
     public int maxSubArray(int[] nums) {

@@ -1,4 +1,4 @@
-package data_structures.hashtables;
+package Leetcode.data_structures.hashtables;
 
 public class MyNode {
     public String key;

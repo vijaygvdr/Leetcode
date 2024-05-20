@@ -1,4 +1,4 @@
-package data_structures.arrays.two_sums;
+package Leetcode.data_structures.arrays.two_sums;
 
 import java.util.Map;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package data_structures.arrays.merge_sorted_arrays;
+package Leetcode.data_structures.arrays.merge_sorted_arrays;
 
 import java.util.Arrays;
 public class MergeSortedArrays {

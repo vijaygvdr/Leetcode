@@ -1,4 +1,4 @@
-package data_structures.arrays.move_zeros;
+package Leetcode.data_structures.arrays.move_zeros;
 
 public class MoveZeros {
     int lastNonZeroFoundAt = 0;

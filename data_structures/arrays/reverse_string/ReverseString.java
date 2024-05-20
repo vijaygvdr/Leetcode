@@ -1,4 +1,4 @@
-package data_structures.arrays.reverse_string;
+package Leetcode.data_structures.arrays.reverse_string;
 
 public class ReverseString {
     private String reverse(String string) {

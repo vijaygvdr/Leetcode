@@ -1,4 +1,4 @@
-package data_structures.hashtables;
+package Leetcode.data_structures.hashtables;
 
 import java.util.ArrayList;
 import java.util.List;

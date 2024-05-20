@@ -1,4 +1,4 @@
-package data_structures.arrays.rotate;
+package Leetcode.data_structures.arrays.rotate;
 
 public class Rotate {
     public void rotate(int[] nums, int k) {

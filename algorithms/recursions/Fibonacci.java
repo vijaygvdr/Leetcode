@@ -1,4 +1,4 @@
-package Leetcode.algorithms;
+package Leetcode.algorithms.recursions;
 
 public class Fibonacci {
     public int findFibonacciByRecursive(int n) {

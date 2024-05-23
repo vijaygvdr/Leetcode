@@ -1,4 +1,4 @@
-package Leetcode.algorithms;
+package Leetcode.algorithms.recursions;
 
 public class Factorial {
     public int findFactorialRecursive(int number) {
